@@ -1,4 +1,4 @@
-# Kibit-vim
+# vim-kibit
 
 [kibit](https://github.com/jonase/kibit) is a static code analyzer for Clojure, ClojureScript, cljx and other Clojure variants.
 
