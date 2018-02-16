@@ -2,11 +2,13 @@
 
 [kibit](https://github.com/jonase/kibit) is a static code analyzer for Clojure, ClojureScript, cljx and other Clojure variants.
 
+![](doc/demo.png)
+
 ## Usage
 
 vim-kibit allows you to analyze the current opened file by running:
 
-`:KibitCheck`
+`:Kibit`
 
 
 ## Installation

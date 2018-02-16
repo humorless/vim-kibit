@@ -37,4 +37,4 @@ function! s:KibitCheck()
   endif
 endfunction
 
-command! KibitCheck call s:KibitCheck()
+command! Kibit call s:KibitCheck()
